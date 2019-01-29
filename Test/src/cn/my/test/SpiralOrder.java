@@ -41,7 +41,7 @@ public class SpiralOrder {
         List<Integer> list = spiralOrder(matrix);
 
         System.out.println(list.toString());
-        Thread
+        //Thread
 
     }
 
